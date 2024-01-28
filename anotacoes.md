@@ -14,3 +14,12 @@ Todos os membros e tipos possuem um nível de acessibilidade, esse nível contro
 **Protected**: O tipo ou membro só pode ser acessado pelo código na mesma classe ou em uma classe que é derivada dessa classe.
 
 **Internal**: O tipo ou membro só pode ser acessado pelo código que faz parte da mesma compilação.
+
+# Programação Assíncrona em C#
+
+É uma abordagem de programação que permite que um programa seja executado em operações não sequenciais. Essa abordagem permite que outras tarefas sejam executadas enquanto aguarda a conclusão de operações demoradas.
+
+# Async / Await
+
+A palavra async é usada para marcar métodos assíncron.
+A palavra await é usada para indicar pontos de espera para operações assíncronas.
